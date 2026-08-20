@@ -10,7 +10,7 @@
 
 ## 🎮 Demo en vivo
 
-👉 **[Jugar ahora](https://leonelb2840-design.github.io/star-explorer)** *(reemplaza con tu URL de GitHub Pages)*
+👉 **[Jugar ahora](https://leonelb2840-design.github.io/star-explorer)**
 
 ---
 
@@ -130,18 +130,7 @@ Luego abre `http://localhost:8000` en tu navegador.
 
 ---
 
-## 🖼️ Iconos
 
-El juego incluye iconos SVG inline en el `manifest.json`, por lo que **no necesitas archivos de imagen adicionales**. Si prefieres usar PNGs personalizados, reemplaza las entradas en `manifest.json` con:
-
-```json
-"icons": [
-  { "src": "icon-192x192.png", "sizes": "192x192", "type": "image/png" },
-  { "src": "icon-512x512.png", "sizes": "512x512", "type": "image/png" }
-]
-```
-
----
 
 ## 📜 Licencia
 
