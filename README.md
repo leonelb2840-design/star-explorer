@@ -2,15 +2,15 @@
 
 > Un simulador espacial 2D inspirado en los clásicos de Android, con física real, planetas del Sistema Solar, asteroides destructibles y power-ups.
 
-[![GitHub Pages](https://img.shields.io/badge/🌐-Jugar%20Online-blue?style=flat-square)](https://tuusuario.github.io/star-explorer)
-[![PWA](https://img.shields.io/badge/📲-PWA%20Ready-purple?style=flat-square)](https://tuusuario.github.io/star-explorer)
+[![GitHub Pages](https://img.shields.io/badge/🌐-Jugar%20Online-blue?style=flat-square)](https://leonelb2840-design.github.io/star-explorer)
+[![PWA](https://img.shields.io/badge/📲-PWA%20Ready-purple?style=flat-square)](https://leonelb2840-design.github.io/star-explorer)
 [![License](https://img.shields.io/badge/📄-MIT-green?style=flat-square)](LICENSE)
 
 ---
 
 ## 🎮 Demo en vivo
 
-👉 **[Jugar ahora](https://tuusuario.github.io/star-explorer)** *(reemplaza con tu URL de GitHub Pages)*
+👉 **[Jugar ahora](https://leonelb2840-design.github.io/star-explorer)** *(reemplaza con tu URL de GitHub Pages)*
 
 ---
 
@@ -71,6 +71,9 @@ star-explorer/
 ├── index.html          # Juego completo (HTML + CSS + JS)
 ├── sw.js               # Service Worker para PWA offline
 ├── manifest.json       # Manifest de la Web App
+├── LICENSE             # Licencia MIT
+├── icon-app.png        # Icono
+├── .gitignore          # Git Config
 └── README.md           # Este archivo
 ```
 
